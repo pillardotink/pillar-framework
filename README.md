@@ -5,18 +5,18 @@ Transform your development workflow with PillarAI, the revolutionary platform th
 ##  Core Platform Architecture
 
 1. **Intelligence Layer**  - AI-powered market analysis
-  - Real-time data processing
-  - Predictive modeling
+    - Real-time data processing
+    - Predictive modeling
 
 
 2. **Blockchain Integration**  - Solana blockchain connectivity
-  - Token interaction capabilities
-  - Smart contract deployment
+    - Token interaction capabilities
+    - Smart contract deployment
 
 
 3. **Development Interface**  - Command-line tools
-  - API integration
-  - Cross-platform compatibility
+    - API integration
+    - Cross-platform compatibility
 
 
 
